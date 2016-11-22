@@ -123,7 +123,7 @@ notifications:
 
 addons:
   firefox: "45.0esr"
-  postgresql: "9.3"
+  postgresql: "9.4"
 
 # Disabling coverage reporting until CodeClimate supports merging results from multiple partial tests
 #   code_climate:
